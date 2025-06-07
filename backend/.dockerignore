@@ -1,0 +1,5 @@
+.env
+venv/
+.gitignore
+.python-version
+docker-compose.yml
